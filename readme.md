@@ -1,6 +1,6 @@
 # Interview Questions and Answers
 
-Whenever you interview for a programming job, there's the inevitable "tech screen"
+Whenever interviewing for a programming job, there's the inevitable "tech screen"
 phase where you're presented with what interviewers think is a "unique challenge".
 This may happen more than once during the process. Interviewers claim these are
 necessary to test the candidate's ability to perform the job, but often the
