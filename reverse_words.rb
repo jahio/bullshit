@@ -40,7 +40,6 @@ n = words.count
 # 
 
 while n != 0
-
   sentence << words[n - 1]
   n = n - 1
 end

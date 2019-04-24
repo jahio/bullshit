@@ -1,18 +1,13 @@
-# Bullshit Interview Questions
+# Interview Questions and Answers
 
-You know how, when you interview for a programming job, you get asked a bunch of
-little "quiz" questions that have _absolutely **nothing** to do with the job?_
-I'm pretty sick of that, so from now on, and as the mood strikes me, I'm going
-to create samples/examples of such "bullshit" questions and how to solve them.
+Whenever you interview for a programming job, there's the inevitable "tech screen"
+phase where you're presented with what interviewers think is a "unique challenge".
+This may happen more than once during the process. Interviewers claim these are
+necessary to test the candidate's ability to perform the job, but often the
+challenges amount to little more than brain-teasers that have absolutely nothing
+to do with the job in question.
 
-And no, in the interest of not making myself an unhireable pariah, I will _not_
-be naming and shaming the companies and interviewers who ask such questions.
+When was the last time a company _sold_ a FizzBuzz program?
 
-_(Even though sometimes I really want to.)_
-
-> Your implementation of X is sloppy (or needs work or could be better or...)
-
-I don't much care since these questions are all literally bullshit and have
-nothing to do with the job of building, shipping and supporting real server-side
-application software in the real world. There's no (profitable) "FizzBuzz" app
-anywhere, so who cares?
+Some questions, however, _aren't_ complete nonsense. Some of those are in here
+too, in order to explain the concepts and show how certain things might be done.
